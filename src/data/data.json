@@ -1,0 +1,185 @@
+
+
+{
+  "Header": {
+    "title": "Innovative IT Solutions for Your Business",
+    "paragraph": "Epochal IT Consultancy LLP provides cutting-edge software development, IT consulting, and digital transformation services to help businesses thrive in a fast-evolving digital landscape."
+  },
+  "About": {
+    "paragraph": "At Epochal IT Consultancy LLP, we specialize in delivering high-quality software solutions and IT consultancy services tailored to your business needs. Our expert team ensures seamless integration, innovative strategies, and efficient technology solutions to help you stay ahead in the industry.",
+    "Why": [
+      "Expert IT Consultancy",
+      "Custom Software Development",
+      "Cloud & DevOps Solutions",
+      "AI & Data Analytics"
+    ],
+    "Why2": [
+      "Scalable and Secure Systems",
+      "Dedicated Support & Maintenance",
+      "Agile Development Approach",
+      "Cost-Effective IT Solutions"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Custom Web Development",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Cloud & DevOps",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Mobile App Development",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "AI & Data Analytics",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+    },
+    { "title": "Cybersecurity Solutions",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Deployment & Support",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Consultancy",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "End-to-End IT Solutions",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Ui/ Ux Design",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Custom Software Development",
+      "text": "We build scalable, high-performance software tailored to your business needs, ensuring efficiency and growth."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud & DevOps Solutions",
+      "text": "Optimize your IT infrastructure with cloud computing and DevOps best practices for seamless deployment and scalability."
+    },
+    {
+      "icon": "fa fa-lock",
+      "name": "Cybersecurity Solutions",
+      "text": "Protect your business from cyber threats with our advanced security solutions and risk assessment services."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "AI & Data Analytics",
+      "text": "Leverage artificial intelligence and data analytics to make informed business decisions and gain a competitive edge."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Mobile App Development",
+      "text": "Create engaging mobile apps for iOS and Android platforms that drive user engagement and business growth."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Consultancy",
+      "text": "Get expert advice on IT strategy, digital transformation, and technology implementation to drive innovation and growth."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Epochal IT Consultancy LLP transformed our IT infrastructure, making our operations more efficient and secure.\"",
+      "name": "Emily Johnson"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Their expertise in cloud solutions helped us scale our business with ease. Highly recommend!\"",
+      "name": "Michael Smith"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Epochal IT Consultancy LLP delivered a custom software solution that exceeded our expectations. Great team!\"",
+      "name": "Sarah Davis"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"We partnered with Epochal IT Consultancy LLP for AI integration and data analytics. Impressed with the results!\"",
+      "name": "John Anderson"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Their mobile app development services helped us reach a wider audience and boost user engagement.\"",
+      "name": "Jessica Brown"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Epochal IT Consultancy LLP provided expert consultancy that guided our digital transformation journey. Thank you!\"",
+      "name": "David Wilson"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Raipur, Chhhattisgarh, India",
+    "phone": "+91 7974149216",
+    "email": "epochalitconsultancy@gmail.com",
+    "facebook": "#",
+    "twitter": "#",
+    "linkedin": "#"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "End-to-End IT Solutions",
+      "text": "From consulting to implementation, we provide complete IT solutions tailored to your needs."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Innovative Technologies",
+      "text": "We leverage the latest tech trends to ensure your business stays ahead of the competition."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Expert Team",
+      "text": "Our team of IT professionals is dedicated to delivering high-quality solutions and services."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Custom Solutions",
+      "text": "We develop custom software and IT solutions that address your unique business challenges."
+    }
+  ]
+}
